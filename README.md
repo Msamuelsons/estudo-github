@@ -14,5 +14,6 @@
 <p> git reset --mixed [resh] </p>
 <p> git reset --hard [resh] </p>
 
+<p> git push -u origin master </p>
 
 
