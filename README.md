@@ -10,9 +10,9 @@
 <p> git checkout [nome do arquivo] </p>
 <p> git reset HEAD [nome do arquivo] </p>
 
-<p> git reset --soft [resh] </p>
-<p> git reset --mixed [resh] </p>
-<p> git reset --hard [resh] </p>
+<p> git reset --soft [hash] </p>
+<p> git reset --mixed [hash] </p>
+<p> git reset --hard [hash] </p>
 
 <p> git push -u origin master </p>
 
