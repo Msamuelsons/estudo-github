@@ -20,4 +20,5 @@
 <p> git checkout [noma da branch] </p>
 <p> git branch -D [noma da branch] </p>
 
-
+<p>git merge [noma da branch]</p>
+<p> git rebase [noma da branch]</p>
