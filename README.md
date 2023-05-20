@@ -16,4 +16,8 @@
 
 <p> git push -u origin master </p>
 
+<p> git checkout -b [noma da branch] </p>
+<p> git checkout [noma da branch] </p>
+<p> git branch -D [noma da branch] </p>
+
 
